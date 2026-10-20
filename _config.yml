@@ -153,6 +153,7 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
+future: true
 
 # The base URL of your site
 baseurl: ""
