@@ -2,7 +2,6 @@
 title: "Joined AIMS South Africa for Master's in AI for Science"
 date: 2026-09-01 09:00:00 +0200
 categories: [News]
-tags: [aims, ai-for-science, education]
 description: "Commenced the Master's degree program in AI for Science at AIMS South Africa."
 ---
 
