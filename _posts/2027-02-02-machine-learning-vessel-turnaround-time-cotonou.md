@@ -81,7 +81,3 @@ def objective(trial, X_train, y_train, X_val, y_val, class_weight_mult):
 ```
 
 This integrated framework demonstrates the operational value of replacing declarative practices with objective algorithmic estimations in port logistics infrastructure across West Africa.
-
-```
-
-```
