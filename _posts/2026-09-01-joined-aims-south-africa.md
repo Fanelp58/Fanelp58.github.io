@@ -6,4 +6,4 @@ tags: [aims, ai-for-science, education]
 description: "Commenced the Master's degree program in AI for Science at AIMS South Africa."
 ---
 
-I have officially joined AIMS South Africa to pursue a Master's degree in AI for Science. My academic focus centers on combining machine learning and econometric tools for public policy evaluation and scientific modeling.
+I have officially joined AIMS South Africa to pursue a Master's degree in AI for Science. My academic focus centers on combining machine, deep learning tools for scientific modeling.
