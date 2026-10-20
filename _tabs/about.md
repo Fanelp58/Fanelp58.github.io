@@ -55,3 +55,7 @@ Economist-Statistician and **Master's Student in AI for Science** at **AIMS Sout
 - **Organizing Committee Member** — *International Conference on Project Management* (Since March 2025)
 - **Volunteer Tutor** — *ENEAM* (November 2024) — Tutoring in Database Management and Monetary Economics.
 - **U-Report Member** (Since 2025)
+
+<a href="/assets/pdf/CV_Letaonde_HOUEHA.pdf" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf fw-600"></i> Download CV (PDF)
+</a>
