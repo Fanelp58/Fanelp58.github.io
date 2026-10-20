@@ -1,7 +1,6 @@
 ---
 layout: categories
-title: Categories
+title: categories
 icon: fas fa-stream
-order: 4
-permalink: /categories/
+order: 2
 ---
