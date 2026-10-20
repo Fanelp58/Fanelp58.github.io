@@ -34,16 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Létondé Précieux Fanès HOUEHA
   email: houeha@aims.ac.za # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/Fanelp58
+    - https://www.linkedin.com/in/fan%C3%A8s-houeha-a4201b310
 
 # Site Verification Settings
 webmaster_verifications:
@@ -60,7 +56,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-PVG8M7XY7J # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
