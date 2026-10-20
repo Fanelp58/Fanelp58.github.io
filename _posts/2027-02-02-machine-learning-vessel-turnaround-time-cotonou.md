@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Prediction of Vessel Turnaround Time at the Autonomous Port of Cotonou"
-date: 2026-02-02 08:00:00 +0200
+date: 2027-02-02 08:00:00 +0200
 categories: [Research, Machine Learning]
 tags: [maritime-logistics, random-forest, optuna, k-means, acdsa2027]
 description: "Presentation of our ACDSA 2027 conference paper on predictive decision support systems for port call planning in West Africa."
