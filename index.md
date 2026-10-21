@@ -15,7 +15,7 @@ Statistician-Economist Engineer specializing in Machine Learning, Causal Inferen
 
 ## Overview
 
-I am an AI Engineer and Economist-Statistician working at the intersection of **Machine Learning**, **Causal Inference**, and **Development Economics**. Currently pursuing my Master's degree in AI for Science at [AIMS South Africa](https://ai.aims.ac.za), my research focuses on building data-driven decision support systems, evaluating infrastructure policies, and applying quantitative frameworks to economic challenges.
+I am an AI Engineer and Economist-Statistician working at the intersection of **Machine Learning**, **Causal Inference**, and **Development Economics**. Currently pursuing my Master's degree in AI for Science at [AIMS South Africa](https://ai.aims.ac.za), I am driven by a central question: how can we know what truly works, and for whom? My research focuses on heterogeneous treatment effects, causal forests, and optimal transport, aiming to build methods that are both mathematically rigorous and actionable for real-world decisions.
 
 ---
 
