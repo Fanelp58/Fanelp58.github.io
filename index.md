@@ -9,7 +9,7 @@ permalink: /
 **Master's Student in AI for Science** at [AIMS South Africa](https://ai.aims.ac.za)  
 Statistician-Economist Engineer specializing in Machine Learning, Causal Inference, and Public Policy Evaluation.
 
-[📄 Download CV (PDF)](/assets/CV_Letonde_HOUEHA.pdf) • [✉️ Contact](mailto:precieuxhoueha@gmail.com) • [💻 GitHub](https://github.com/Fanelp58)
+[Download CV (PDF)](/assets/CV_Letonde_HOUEHA.pdf) • [Contact](mailto:precieuxhoueha@gmail.com) • [GitHub](https://github.com/Fanelp58)
 
 ---
 
@@ -30,5 +30,5 @@ I am an AI Engineer and Economist-Statistician working at the intersection of **
 
 ## Explore
 
-- 📚 Browse research papers, dissertations, and policy reports in [Publications](/publications/)
-- 💻 Explore interactive web applications, Streamlit dashboards, and ML models in [Projects](/projects/)
+- Browse research papers, dissertations, and policy reports in [Publications](/publications/) 📚 
+- Explore interactive web applications, Streamlit dashboards, and ML models in [Projects](/projects/) 💻 
