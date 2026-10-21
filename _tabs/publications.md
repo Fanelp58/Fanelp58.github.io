@@ -14,7 +14,7 @@ order: 2
   *Digital Transformation of Monitoring & Evaluation Systems: Focus on the Sustainable Livelihoods Project*
 
 ### Policy Reports & Applied Research
-- **BCEAO Research Report** (2026)
+- **BCEAO Research Report** (2026):
   *Impact evaluation of the PI-SPI interoperability platform.*
-- **Port Autonome de Cotonou Study** (2026)
+- **Port Autonome de Cotonou Study** (2026):
   *Applied machine learning for maritime logistics and data analytics.*
